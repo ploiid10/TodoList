@@ -7,7 +7,8 @@
 - Used `/graphql` for all the backend api
 - Add token expiry which is set to 30m
 - TODOS (Unit tests for frontend and backend)
-
+- `/graphql` has all apis for creating, updating, and deleting task
+- `/graphql` has all apis for register/signup and login user
 
 # Instructions for Backend
 - go to `/server` directory
