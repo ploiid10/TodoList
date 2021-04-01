@@ -2,7 +2,7 @@
 - Used NodeJS,Express, GraphQL for Backend
 - Used React, Apollo GraphQL for Frontend
 - Used superficial validations for forms (not perfect validations)
-- Used PostgreSQL as database for the backend
+- Used PostgreSQL as database for the backend. We can use MySQL by updating dialect in`server/config/config.js`
 - Used Sequelize for ORM
 - Used `/graphql` for all the backend api
 - Add token expiry which is set to 30m
